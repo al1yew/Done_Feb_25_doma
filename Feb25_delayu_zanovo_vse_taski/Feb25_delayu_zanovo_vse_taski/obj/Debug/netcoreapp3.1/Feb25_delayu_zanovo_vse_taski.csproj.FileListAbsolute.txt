@@ -1,0 +1,14 @@
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\bin\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.exe
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\bin\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.deps.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\bin\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.runtimeconfig.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\bin\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.runtimeconfig.dev.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\bin\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.dll
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\bin\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.pdb
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.csproj.AssemblyReference.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.AssemblyInfoInputs.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.AssemblyInfo.cs
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.csproj.CoreCompileInputs.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.dll
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.pdb
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb25_delayu_zanovo_vse_taski\Feb25_delayu_zanovo_vse_taski\obj\Debug\netcoreapp3.1\Feb25_delayu_zanovo_vse_taski.genruntimeconfig.cache

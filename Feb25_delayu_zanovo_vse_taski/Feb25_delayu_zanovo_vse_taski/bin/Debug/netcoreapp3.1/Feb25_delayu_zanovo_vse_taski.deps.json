@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Feb25_delayu_zanovo_vse_taski/1.0.0": {
+        "runtime": {
+          "Feb25_delayu_zanovo_vse_taski.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feb25_delayu_zanovo_vse_taski/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
